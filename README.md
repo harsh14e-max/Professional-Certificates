@@ -30,9 +30,9 @@ This repository contains my verified professional certifications in Data Analyti
 ### 3. Microsoft - Power BI Fundamentals and Data Modeling
 
 ![Microsoft Power BI Certificate](PowerBI_Microsoft/powerbi-microsoft-certificate.png)
-### 
 
-[📥 View / Download Microsoft Power BI Certificate (PDF)](PowerBI_Microsoft/powerbi-microsoft-certificate.pdf)
+
+📄 [View Certificate PDF](PowerBI_Microsoft/powerbi-microsoft-certificate.pdf)
 
 
 
